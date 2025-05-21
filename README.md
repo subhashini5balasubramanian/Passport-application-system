@@ -8,16 +8,17 @@
 To develop the Passport application system using Star UML
 
 # Problem Statement:
-1. Passport application system is used in the effective application of passport. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
+1.The traditional passport application process involves manual form submission, long queues, and repetitive visits to government offices, causing delays and inconvenience to applicants.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
+2.Applicants often face difficulties in tracking the status of their application, submitting the correct documents, and scheduling appointments for verification.
 
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+3.There is a lack of centralized, digital access to services such as form filling, document uploads, fee payment, and grievance redressal.
 
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+4.Passport offices require an efficient system to handle large volumes of applications, verify applicant details, schedule interviews, and manage application progress.
 
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+5.A Passport Application System is needed to allow users to fill out application forms online, upload required documents, make secure payments, and book appointments.
 
+6.The system should also offer admin functionalities to verify applications, update processing status, manage applicant records, and send notifications regarding approval, rejection, or further requirements.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
