@@ -1,7 +1,7 @@
 # Passport application system
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223040211  
+# Name:SUBHASHINI.B 
+
 
 
 # AIM:
@@ -28,6 +28,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -38,11 +39,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+![Use Case](https://github.com/user-attachments/assets/fe574a81-6cd7-4aa8-89d7-2200fd806dd4)
 
 # CLASS DIAGRAM
 
@@ -58,6 +55,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![ClassDiagram1](https://github.com/user-attachments/assets/d07650d5-b701-4d83-88fc-9d9f571f168e)
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,8 +64,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+![CommunicationDiagram1](https://github.com/user-attachments/assets/dcfb3c16-b19e-4cb2-84e5-e6595f9c4c59)
 
 # PACKAGE DIAGRAM:
 
@@ -77,11 +74,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
+![442839822-07912c0a-5ca0-4afa-a4f0-484dd2803783](https://github.com/user-attachments/assets/3d5154c2-cf27-491d-a42f-ca8603aa40aa)
 
 
 # ACTIVITY DIAGRAM:
@@ -96,8 +89,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+![ActivityDiagram1](https://github.com/user-attachments/assets/c9de91bd-c1e7-4920-921f-07b389bed83b)
 
 
 # SEQUENCE DIAGRAM
@@ -117,9 +109,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
+![SequenceDiagram1](https://github.com/user-attachments/assets/55a8c6c0-e23b-406f-a24c-8334b7113955)
 
 
 # RESULT
